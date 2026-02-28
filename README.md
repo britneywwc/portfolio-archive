@@ -1,6 +1,6 @@
 # Portfolio
 A personal portfolio website to display all current and past projects. Built on ReactJS, deployed on Vercel.
-Visit the website [here](https://britneywang.com).
+Visit the website [here](https://britneywwc.github.io/portfolio-archive).
 
 
 ## Available Scripts
